@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").ToolEventsbro.G26Eventbro:FireServer()

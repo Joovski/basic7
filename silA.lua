@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Joovski/basic/main/real%20hood%20silent.lua"))()
